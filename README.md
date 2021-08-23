@@ -1,5 +1,5 @@
 # Named Entity Recognition (NER)
-## COMP5046 NLP Assignment 2 - Group
+## COMP5046 NLP Assignment 2
 May 2021 – Jun 2021
 
 
